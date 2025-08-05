@@ -776,18 +776,18 @@ function App() {
           >
             <h3 className="text-2xl font-bold text-white mb-6 text-center">⚖️ 維權行動指南</h3>
             <div className="grid md:grid-cols-2 gap-8">
-              <div>
+              <div className="text-center">
                 <h4 className="text-lg font-semibold text-indigo-400 mb-4">📋 證據收集</h4>
-                <ul className="text-white/80 space-y-2">
+                <ul className="text-white/80 space-y-2 text-center list-none">
                   <li>• 拍攝現場照片/影片</li>
                   <li>• 記錄時間、地點、影響</li>
                   <li>• 收集產品包裝資訊</li>
                   <li>• 保留醫療診斷證明</li>
                 </ul>
               </div>
-              <div>
+              <div className="text-center">
                 <h4 className="text-lg font-semibold text-blue-400 mb-4">📞 陳情管道</h4>
-                <ul className="text-white/80 space-y-2">
+                <ul className="text-white/80 space-y-2 text-center list-none">
                   <li>• 環境部公害陳情專線</li>
                   <li>• 地方環保局檢舉</li>
                   <li>• 消費者保護會申訴</li>
