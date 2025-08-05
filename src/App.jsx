@@ -5,7 +5,7 @@ import './App.css'
 
 // 導入圖像資產
 import heroImage from './assets/hero-image.png'
-import naturalDefenseImage from './assets/natural-defense-system.png'
+import naturalDefenseImage from './assets/natural-defense-systemV2.png'
 import nanoPollutionImage from './assets/nano-pollution.png'
 import globalMovementImage from './assets/global-movement.png'
 
